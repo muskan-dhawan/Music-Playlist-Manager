@@ -1,17 +1,14 @@
 # 🎵 Music Playlist Manager
-
-<<<<<<< HEAD
 ![Music Playlist Manager](frontend-screenshot.png)
 [![C++](https://img.shields.io/badge/Backend-C++-blue)](https://isocpp.org/) [![HTML5](https://img.shields.io/badge/Frontend-HTML5-orange)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS3](https://img.shields.io/badge/CSS3-blue)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![JavaScript](https://img.shields.io/badge/JavaScript-yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-=======
+
 | ![Music Playlist Manager](frontend-screenshot.png) | **Tech Stack** |
 |----------------------------------------------------|----------------|
 |                                                    | [![C++](https://img.shields.io/badge/Backend-C++-blue)](https://isocpp.org/) [![HTML5](https://img.shields.io/badge/Frontend-HTML5-orange)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS3](https://img.shields.io/badge/CSS3-blue)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![JavaScript](https://img.shields.io/badge/JavaScript-yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |
->>>>>>> d36695f (Fix screenshot link in README)
+
 
 ---
-
 ## **Overview**
 A full-stack **Music Playlist Manager** allowing users to **add, delete, shuffle, and play songs**, and **save/load playlists** efficiently. Combines a **C++ backend** with a **web frontend** for interactive playlist management.
 
@@ -33,11 +30,6 @@ Music-Playlist-Manager/
 ├─ Frontend code/ # Web interface
 └─ README.md # Project documentation
 
-<<<<<<< HEAD
-
-
-=======
->>>>>>> d36695f (Fix screenshot link in README)
 ---
 
 ## **How to Run**
