@@ -33,8 +33,7 @@ Music-Playlist-Manager/
 ├─ Frontend code/ # Web interface
 └─ README.md # Project documentation
 
-yaml
-Copy code
+
 
 ---
 
