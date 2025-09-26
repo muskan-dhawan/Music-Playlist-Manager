@@ -1,6 +1,6 @@
 # 🎵 Music Playlist Manager
 
-![Music Playlist Manager](C:\Users\muska\Downloads\Music Playlist Manager\frontend-screenshot.png)  
+![Music Playlist Manager](frontend-screenshot.png)  
 
 [![C++](https://img.shields.io/badge/Backend-C++-blue)](https://isocpp.org/)  
 [![HTML5](https://img.shields.io/badge/Frontend-HTML5-orange)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
